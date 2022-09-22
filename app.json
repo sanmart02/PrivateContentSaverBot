@@ -8,7 +8,7 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/ItzMeLucky/PrivateContentSaverBot",
+    "repository": "https://github.com/sanmart02/PrivateContentSaverBot",
     "website": "",
     "success_url": "https://t.me/RequestMaterial",
     "env": {
